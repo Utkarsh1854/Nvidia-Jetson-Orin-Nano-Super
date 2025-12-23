@@ -1,4 +1,3 @@
-# Nvidia-Jetson-Orin-Nano
 ## **Install NoMachine on NVIDIA Jetson (ARM64)**
 This guide demonstrates how to download and install NoMachine on an NVIDIA Jetson device and configure a dummy display to enable NoMachine to function without a physical monitor.<br>
 Prerequisites:<br>
